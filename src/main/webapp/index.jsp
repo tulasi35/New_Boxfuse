@@ -4,9 +4,9 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations!</h1>
-<img src="boxfuse.png">
+<img src="devops.png">
 
-<h2>You have successfully launched your Instance!</h2>
+<h2>You have successfully learned DEVOPS</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
@@ -49,9 +49,9 @@
 <% } else { %>
 <h2 style="margin-top: 80px">Now it's your turn!</h2>
 
-<p>Check out <strong><a href="https://github.com/boxfuse/boxfuse-sample-java-war-hello">this app</a></strong> from GitHub, modify it, and give it version 2.<br/>You are now ready to fuse and <strong>deploy it with zero downtime</strong> using the commands you already know.</p>
+<p>Check out <strong><a href="https://github.com/saikrishnanarina/boxfuse">this is my repository</a></strong> from GitHub, modify it, and give it version 2.<br/>You are now ready to fuse and <strong>deploy it with zero downtime</strong> using the commands you already know.</p>
 
-<p>Alternatively you can go back to the <strong><a href="https://console.boxfuse.com">Boxfuse Console</a></strong>,<br/> and simply create your own.</p>
+<p>Alternatively you can go back to the <strong><a href="https://www.youtube.com/watch?v=hQcFE0RD0cQ">Devops Beginners</a></strong>,<br/> and simply create your own.</p>
 
 <p>If you need any help the <strong><a href="http://boxfuse.com/docs">documentation</a></strong> is there for you,<br/>or simply shoot us an email at <a href="mailto:support@boxfuse.com">support@boxfuse.com</a></p>
 
