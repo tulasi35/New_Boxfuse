@@ -3,7 +3,7 @@
     <title>Boxfusee: success!!</title>
 </head>
 <body style="text-align: center">
-<h1>ALL THE BEST</h1>
+<h1>CONGRATULATIONS</h1>
 <img src="yellow.png">
 
 <h2>You have successfully learned devops</h2>
