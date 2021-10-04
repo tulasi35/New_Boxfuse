@@ -1,12 +1,12 @@
 <html>
 <head>
-    <title>Boxfuse: success!!</title>
+    <title>Boxfusee: success!!</title>
 </head>
 <body style="text-align: center">
 <h1>ALL THE BEST</h1>
 <img src="yellow.png">
 
-<h2>You have successfully learned DEVOPS</h2>
+<h2>You have successfully learned devops</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
